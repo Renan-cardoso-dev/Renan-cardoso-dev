@@ -19,4 +19,4 @@
 ---
 
 ### 📫 Contato
-- 💼 **LinkedIn:** (https://linkedin.com)
+- 💼 **LinkedIn:**linkedin.com/in/renan-cardoso-6b2085451 (https://linkedin.com)
