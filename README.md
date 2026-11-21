@@ -1,16 +1,22 @@
-## Hi there 👋
+## Olá! Eu sou Renan cardoso 👋
 
-<!--
-**Renan-cardoso-dev/Renan-cardoso-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante do curso Técnico em **Desenvolvimento de Sistemas** no **SENAI**  
+💻 Em constante evolução na área de tecnologia, construindo base sólida em **Lógica de Programação** e desenvolvimento de software.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 O que estou estudando no momento
+- **Linguagem:** Java
+- **Ferramentas:** Eclipse IDE, Git & GitHub
+- **Fundamentos:** Algoritmos, estruturas sequenciais, entrada e saída de dados, operações matemáticas e organização em pacotes.
+
+---
+
+### 📚 Em breve por aqui
+- Projetos práticos e listas de exercícios desenvolvidos ao longo do curso técnico no SENAI.
+
+
+---
+
+### 📫 Contato
+- 💼 **LinkedIn:** (https://linkedin.com)
