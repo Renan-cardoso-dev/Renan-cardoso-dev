@@ -19,4 +19,5 @@
 ---
 
 ### 📫 Contato
-- 💼 **LinkedIn:**linkedin.com/in/renan-cardoso-6b2085451 (https://linkedin.com)
+- 💼 **LinkedIn:**www.linkedin.com/in/renan-cardoso-dev
+
